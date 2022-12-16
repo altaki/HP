@@ -1,2 +1,2 @@
-
-This repository concerns my homepage where you can reach out my CV, my Research and Teaching Activities.
+#HomePage
+In this repository, I store my code used to create my home page. I developed my code using HTML and CSS languages. 

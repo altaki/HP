@@ -126,7 +126,7 @@ p { line-height: 1.9; }
 }
 
 .tm-col-right {
-    width: 70%;
+    width: 50%;
     height: 100%;
     padding-left: 70px;
     padding-right: 70px;
@@ -339,4 +339,5 @@ textarea {
     .tm-service-img-r { margin-left: 0; }
 
 }
+
 

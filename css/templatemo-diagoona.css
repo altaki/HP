@@ -119,14 +119,14 @@ p { line-height: 1.9; }
 .tm-row { display: flex; }
 
 .tm-col-left {
-    width: 70%;
+    width: 50%;
     height: 100%;
     padding-left: 40px;  
     padding-right: 40px;
 }
 
 .tm-col-right {
-    width: 50%;
+    width: 70%;
     height: 100%;
     padding-left: 70px;
     padding-right: 70px;
@@ -190,7 +190,7 @@ hr { border-top: 1px solid white; }
 }
 
 /* Service */ 
-.tm-service-text { max-width: 365px; }
+.tm-service-text { max-width: 400px; }
 .tm-service-img { margin-right: 25px; }
 .tm-service-img-r { margin-left: 25px; }
 
@@ -339,3 +339,4 @@ textarea {
     .tm-service-img-r { margin-left: 0; }
 
 }
+
